@@ -1,0 +1,1 @@
+document.writeln("ini adalah teks javascript dari luar HTML")
