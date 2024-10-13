@@ -1,0 +1,1 @@
+javascript dapat ditulis dalam file HTML dan juga diluar file HTML, penulisan javascript didalam HTML harus diawali dengan tanda <script> dan diakhiri dengan </script>, ketika ingin menulis javascript diluar file HTML maka harus membuat file "namafile.js" dan dalam file HTML ditambah <script src:"namafile.js"></script> untuk menghubungkan file javascript.
