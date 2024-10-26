@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Loop</title>
+</head>
+<body>
+    <script>
+        for (let bintang = 1; bintang <= 10; bintang++) {
+            document.writeln('perulangan ke ',bintang ,"<br>");
+        }
+
+        let hasil = "";
+        let jumlahBaris = 5; // Misalnya, kita ingin membuat 5 baris
+
+        for (let i = 1; i <= jumlahBaris; i++) {
+            hasil += "*".repeat(i) + "<br>";
+        }
+        
+        document.writeln(hasil);
+
+    </script>
+</body>
+</html>
